@@ -22,7 +22,7 @@ const Home = () => {
                 </div>
                 <div className='col-md-10 mx-auto'>
                     <table className='table table-hover'>
-                        <thead className='text-white bg-dark text-center'>
+                        <thead className='text-white bg-primary bg-gradient bg-opacity-50 text-center'>
                             <tr>
                                 <th scope='col'>#</th>
                                 <th scope='col'>Name</th>
